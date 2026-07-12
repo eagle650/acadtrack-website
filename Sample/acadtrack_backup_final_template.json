@@ -1,0 +1,789 @@
+{
+  "absentClasses": [],
+  "appVersion": "1.0.0",
+  "assignments": [],
+  "courseExamMappings": [
+    {
+      "courseId": 6,
+      "id": 1,
+      "templateId": 7,
+      "weightage": 50
+    },
+    {
+      "courseId": 6,
+      "id": 2,
+      "templateId": 9,
+      "weightage": 50
+    },
+    {
+      "courseId": 1,
+      "id": 3,
+      "templateId": 6,
+      "weightage": 60
+    },
+    {
+      "courseId": 1,
+      "id": 4,
+      "templateId": 8,
+      "weightage": 40
+    },
+    {
+      "courseId": 8,
+      "id": 5,
+      "templateId": 6,
+      "weightage": 60
+    },
+    {
+      "courseId": 8,
+      "id": 6,
+      "templateId": 8,
+      "weightage": 40
+    },
+    {
+      "courseId": 7,
+      "id": 7,
+      "templateId": 6,
+      "weightage": 60
+    },
+    {
+      "courseId": 7,
+      "id": 8,
+      "templateId": 8,
+      "weightage": 40
+    },
+    {
+      "courseId": 3,
+      "id": 10,
+      "templateId": 7,
+      "weightage": 50
+    },
+    {
+      "courseId": 3,
+      "id": 11,
+      "templateId": 9,
+      "weightage": 50
+    },
+    {
+      "courseId": 9,
+      "id": 13,
+      "templateId": 6,
+      "weightage": 60
+    },
+    {
+      "courseId": 9,
+      "id": 14,
+      "templateId": 8,
+      "weightage": 40
+    },
+    {
+      "courseId": 5,
+      "id": 15,
+      "templateId": 6,
+      "weightage": 60
+    },
+    {
+      "courseId": 5,
+      "id": 16,
+      "templateId": 8,
+      "weightage": 40
+    },
+    {
+      "courseId": 10,
+      "id": 17,
+      "templateId": 6,
+      "weightage": 60
+    },
+    {
+      "courseId": 10,
+      "id": 18,
+      "templateId": 8,
+      "weightage": 40
+    },
+    {
+      "courseId": 4,
+      "id": 19,
+      "templateId": 7,
+      "weightage": 50
+    },
+    {
+      "courseId": 4,
+      "id": 20,
+      "templateId": 9,
+      "weightage": 50
+    },
+    {
+      "courseId": 2,
+      "id": 21,
+      "templateId": 6,
+      "weightage": 60
+    },
+    {
+      "courseId": 2,
+      "id": 22,
+      "templateId": 8,
+      "weightage": 40
+    }
+  ],
+  "courseMaterials": [],
+  "courses": [
+    {
+      "courseCode": "DB111",
+      "courseName": "Agriculture Informatics \u0026 AI",
+      "createdAt": "2026-06-28T13:10:07.561688",
+      "externalMarks": 40,
+      "id": 1,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 1,
+      "theoryCredits": 2,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DM111",
+      "courseName": "Fundamentals Of Mic",
+      "createdAt": "2026-06-28T13:10:39.941436",
+      "externalMarks": 40,
+      "id": 2,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 1,
+      "theoryCredits": 1,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DC SEC 3",
+      "courseName": "Malpractice",
+      "createdAt": "2026-06-28T13:11:04.565808",
+      "externalMarks": 50,
+      "id": 3,
+      "internalMarks": 50,
+      "practicalCredits": 2,
+      "semesterId": 1,
+      "theoryCredits": 0,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DE113",
+      "courseName": "Engineering Drawing",
+      "createdAt": "2026-06-28T13:11:35.050841",
+      "externalMarks": 50,
+      "id": 4,
+      "internalMarks": 50,
+      "practicalCredits": 1,
+      "semesterId": 1,
+      "theoryCredits": 0,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DE111",
+      "courseName": "Workshop Practice ",
+      "createdAt": "2026-06-28T13:11:57.065220",
+      "externalMarks": 40,
+      "id": 5,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 1,
+      "theoryCredits": 1,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DT SEC 1",
+      "courseName": "Operation Of Liquid Milk",
+      "createdAt": "2026-06-28T13:12:36.069896",
+      "externalMarks": 50,
+      "id": 6,
+      "internalMarks": 50,
+      "practicalCredits": 2,
+      "semesterId": 1,
+      "theoryCredits": 0,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DB113",
+      "courseName": "Farming Based Livelihood System",
+      "createdAt": "2026-06-28T13:13:06.997741",
+      "externalMarks": 40,
+      "id": 7,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 1,
+      "theoryCredits": 2,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DB112",
+      "courseName": "Communication Skills",
+      "createdAt": "2026-06-28T13:13:32.954652",
+      "externalMarks": 40,
+      "id": 8,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 1,
+      "theoryCredits": 1,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DC111",
+      "courseName": "Physical Chemistry Of Milk",
+      "createdAt": "2026-06-28T13:13:55.316432",
+      "externalMarks": 40,
+      "id": 9,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 1,
+      "theoryCredits": 1,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DE112",
+      "courseName": "Fluid Mechanics",
+      "createdAt": "2026-06-28T13:14:09.426571",
+      "externalMarks": 40,
+      "id": 10,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 1,
+      "theoryCredits": 1,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DT121",
+      "courseName": "Market Milk",
+      "createdAt": "2026-06-28T13:15:00.209066",
+      "externalMarks": 40,
+      "id": 11,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 2,
+      "theoryCredits": 3,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DE121",
+      "courseName": "HMT",
+      "createdAt": "2026-06-28T13:15:23.809135",
+      "externalMarks": 40,
+      "id": 12,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 2,
+      "theoryCredits": 2,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DE122",
+      "courseName": "Thermodynamics ",
+      "createdAt": "2026-06-28T13:15:43.399258",
+      "externalMarks": 40,
+      "id": 13,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 2,
+      "theoryCredits": 2,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DC121",
+      "courseName": "Chemistry Of Milk",
+      "createdAt": "2026-06-28T13:16:08.599626",
+      "externalMarks": 40,
+      "id": 14,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 2,
+      "theoryCredits": 2,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DM121",
+      "courseName": "Mic Of Fluid Milk",
+      "createdAt": "2026-06-28T13:16:33.437177",
+      "externalMarks": 40,
+      "id": 15,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 2,
+      "theoryCredits": 1,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DM122",
+      "courseName": "Environmental Studies",
+      "createdAt": "2026-06-28T13:16:52.974456",
+      "externalMarks": 40,
+      "id": 16,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 2,
+      "theoryCredits": 2,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DB121",
+      "courseName": "Personality Development",
+      "createdAt": "2026-06-28T13:17:08.993100",
+      "externalMarks": 40,
+      "id": 17,
+      "internalMarks": 60,
+      "practicalCredits": 1,
+      "semesterId": 2,
+      "theoryCredits": 1,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DE SEC 3",
+      "courseName": "Boilers And Capacitors",
+      "createdAt": "2026-06-28T13:17:43.816694",
+      "externalMarks": 50,
+      "id": 18,
+      "internalMarks": 50,
+      "practicalCredits": 2,
+      "semesterId": 2,
+      "theoryCredits": 0,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "DM SEC 4",
+      "courseName": "Basic Mic Test for Quality",
+      "createdAt": "2026-06-28T13:18:32.589227",
+      "externalMarks": 50,
+      "id": 19,
+      "internalMarks": 50,
+      "practicalCredits": 2,
+      "semesterId": 2,
+      "theoryCredits": 0,
+      "totalMarks": 100
+    },
+    {
+      "courseCode": "KAN 122",
+      "courseName": "Kannada ",
+      "createdAt": "2026-06-29T22:09:19.615939",
+      "externalMarks": 50,
+      "id": 20,
+      "internalMarks": 50,
+      "practicalCredits": 0,
+      "semesterId": 2,
+      "theoryCredits": 0,
+      "totalMarks": 100
+    }
+  ],
+  "examSchedules": [
+    {
+      "createdAt": "2026-06-29T22:02:27.250588",
+      "endDate": "2026-07-18",
+      "id": 2,
+      "name": "Internal Exam",
+      "startDate": "2026-07-06"
+    }
+  ],
+  "examSlots": [
+    {
+      "courseId": 11,
+      "endTime": "1:00 PM",
+      "examDate": "2026-07-06",
+      "id": 2,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "12:00 PM"
+    },
+    {
+      "courseId": 19,
+      "endTime": "1:00 PM",
+      "examDate": "2026-07-07",
+      "id": 3,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "12:00 PM"
+    },
+    {
+      "courseId": 16,
+      "endTime": "1:00 PM",
+      "examDate": "2026-07-08",
+      "id": 4,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "12:00 PM"
+    },
+    {
+      "courseId": 14,
+      "endTime": "3:30 PM",
+      "examDate": "2026-07-09",
+      "id": 6,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "2:30 PM"
+    },
+    {
+      "courseId": 20,
+      "endTime": "1:00 PM",
+      "examDate": "2026-07-10",
+      "id": 7,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "12:00 PM"
+    },
+    {
+      "courseId": 17,
+      "endTime": "11:20 AM",
+      "examDate": "2026-07-11",
+      "id": 10,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "10:20 AM"
+    },
+    {
+      "courseId": 15,
+      "endTime": "3:30 PM",
+      "examDate": "2026-07-13",
+      "id": 11,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "2:30 PM"
+    },
+    {
+      "courseId": 18,
+      "endTime": "11:20 AM",
+      "examDate": "2026-07-16",
+      "id": 12,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "10:20 AM"
+    },
+    {
+      "courseId": 12,
+      "endTime": "11:20 AM",
+      "examDate": "2026-07-17",
+      "id": 13,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "10:20 AM"
+    },
+    {
+      "courseId": 13,
+      "endTime": "1:00 PM",
+      "examDate": "2026-07-18",
+      "id": 14,
+      "isCompleted": false,
+      "scheduleId": 2,
+      "startTime": "12:00 PM"
+    }
+  ],
+  "examTemplates": [
+    {
+      "createdAt": "2026-06-29T22:24:10.196760",
+      "id": 1,
+      "maxMarks": 10,
+      "name": "Quiz 1",
+      "type": "internal"
+    },
+    {
+      "createdAt": "2026-06-29T22:24:21.690845",
+      "id": 2,
+      "maxMarks": 20,
+      "name": "Internal Exam",
+      "type": "internal"
+    },
+    {
+      "createdAt": "2026-06-29T22:24:29.645599",
+      "id": 3,
+      "maxMarks": 10,
+      "name": "Quiz 2",
+      "type": "internal"
+    },
+    {
+      "createdAt": "2026-06-29T22:24:38.991468",
+      "id": 4,
+      "maxMarks": 10,
+      "name": "Practical Exam",
+      "type": "internal"
+    },
+    {
+      "createdAt": "2026-06-29T22:24:45.253482",
+      "id": 5,
+      "maxMarks": 10,
+      "name": "Assignment ",
+      "type": "internal"
+    },
+    {
+      "createdAt": "2026-06-29T22:25:02.281368",
+      "id": 6,
+      "maxMarks": 60,
+      "name": "Total Internal ",
+      "type": "internal"
+    },
+    {
+      "createdAt": "2026-06-29T22:25:24.606004",
+      "id": 7,
+      "maxMarks": 50,
+      "name": "Total Internal (Practical Only)",
+      "type": "internal"
+    },
+    {
+      "createdAt": "2026-06-29T22:25:38.711439",
+      "id": 8,
+      "maxMarks": 40,
+      "name": "External Exam",
+      "type": "external"
+    },
+    {
+      "createdAt": "2026-06-29T22:25:56.335827",
+      "id": 9,
+      "maxMarks": 50,
+      "name": "External (Practical Only)",
+      "type": "external"
+    }
+  ],
+  "exportDate": "2026-06-29T22:30:45.860169",
+  "marksEntries": [],
+  "semesters": [
+    {
+      "createdAt": "2026-06-28T13:08:57.721648",
+      "id": 1,
+      "isActive": false,
+      "name": "SEM 1"
+    },
+    {
+      "createdAt": "2026-06-28T13:14:22.685314",
+      "id": 2,
+      "isActive": true,
+      "name": "SEM 2"
+    }
+  ],
+  "timetableSlots": [
+    {
+      "courseId": 12,
+      "dayOfWeek": 1,
+      "endTime": "10:20 AM",
+      "id": 1,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "9:30 AM"
+    },
+    {
+      "courseId": 13,
+      "dayOfWeek": 1,
+      "endTime": "11:20 AM",
+      "id": 2,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "10:20 AM"
+    },
+    {
+      "courseId": 11,
+      "dayOfWeek": 1,
+      "endTime": "12:00 PM",
+      "id": 3,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "11:10 AM"
+    },
+    {
+      "courseId": 11,
+      "dayOfWeek": 1,
+      "endTime": "1:40 PM",
+      "id": 4,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "12:00 PM"
+    },
+    {
+      "courseId": 15,
+      "dayOfWeek": 1,
+      "endTime": "4:10 PM",
+      "id": 5,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "2:30 PM"
+    },
+    {
+      "courseId": 17,
+      "dayOfWeek": 2,
+      "endTime": "10:20 AM",
+      "id": 6,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "9:30 AM"
+    },
+    {
+      "courseId": 13,
+      "dayOfWeek": 2,
+      "endTime": "12:00 PM",
+      "id": 7,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "11:10 AM"
+    },
+    {
+      "courseId": 19,
+      "dayOfWeek": 2,
+      "endTime": "1:40 PM",
+      "id": 8,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "12:00 PM"
+    },
+    {
+      "courseId": 19,
+      "dayOfWeek": 2,
+      "endTime": "4:10 PM",
+      "id": 9,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "2:30 PM"
+    },
+    {
+      "courseId": 11,
+      "dayOfWeek": 3,
+      "endTime": "10:20 AM",
+      "id": 10,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "9:30 AM"
+    },
+    {
+      "courseId": 14,
+      "dayOfWeek": 3,
+      "endTime": "11:10 AM",
+      "id": 11,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "10:20 AM"
+    },
+    {
+      "courseId": 16,
+      "dayOfWeek": 3,
+      "endTime": "12:00 PM",
+      "id": 12,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "11:10 AM"
+    },
+    {
+      "courseId": 16,
+      "dayOfWeek": 3,
+      "endTime": "1:40 PM",
+      "id": 13,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "12:00 PM"
+    },
+    {
+      "customLabel": "NSS - 2",
+      "dayOfWeek": 3,
+      "endTime": "4:10 PM",
+      "id": 14,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "2:30 PM"
+    },
+    {
+      "courseId": 15,
+      "dayOfWeek": 4,
+      "endTime": "10:20 AM",
+      "id": 15,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "9:30 AM"
+    },
+    {
+      "courseId": 18,
+      "dayOfWeek": 4,
+      "endTime": "12:00 PM",
+      "id": 16,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "10:20 AM"
+    },
+    {
+      "courseId": 16,
+      "dayOfWeek": 4,
+      "endTime": "12:50 PM",
+      "id": 17,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "12:00 PM"
+    },
+    {
+      "courseId": 11,
+      "dayOfWeek": 4,
+      "endTime": "1:40 PM",
+      "id": 18,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "12:50 PM"
+    },
+    {
+      "courseId": 14,
+      "dayOfWeek": 4,
+      "endTime": "4:10 PM",
+      "id": 19,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "2:30 PM"
+    },
+    {
+      "courseId": 14,
+      "dayOfWeek": 5,
+      "endTime": "10:20 AM",
+      "id": 20,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "9:30 AM"
+    },
+    {
+      "courseId": 12,
+      "dayOfWeek": 5,
+      "endTime": "12:00 PM",
+      "id": 21,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "10:20 AM"
+    },
+    {
+      "courseId": 12,
+      "dayOfWeek": 6,
+      "endTime": "10:20 AM",
+      "id": 23,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "9:30 AM"
+    },
+    {
+      "courseId": 17,
+      "dayOfWeek": 6,
+      "endTime": "12:00 PM",
+      "id": 24,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "10:20 AM"
+    },
+    {
+      "courseId": 13,
+      "dayOfWeek": 6,
+      "endTime": "1:40 PM",
+      "id": 25,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "12:00 PM"
+    },
+    {
+      "customLabel": "--",
+      "dayOfWeek": 2,
+      "endTime": "11:10 AM",
+      "id": 26,
+      "semesterId": 2,
+      "slotType": "Theory",
+      "startTime": "10:20 AM"
+    },
+    {
+      "customLabel": "Kannada",
+      "dayOfWeek": 5,
+      "endTime": "1:40 PM",
+      "id": 28,
+      "semesterId": 2,
+      "slotType": "Practical",
+      "startTime": "12:00 PM"
+    }
+  ],
+  "todos": []
+}
